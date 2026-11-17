@@ -13,6 +13,8 @@ The solar boom was not because of academics working on exciting alternatives to 
 
 I first saw a graph like this at a conference:
 
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1794897603/lexical_client_uploads/pu8ncrl9doxgyco0iahy.png)
+
 On the y axis is log price, and on the x axis is log cumulative production: that is, how many solar panels have ever been made, measured in watts.
 When we see a line on a graph like this, we call it an instance of "Wright's Law".
 Soon enough I saw these graphs everywhere online; [this one is from OWID](https://ourworldindata.org/learning-curve).
@@ -25,6 +27,8 @@ Both graphs are plotting some measure of efficiency on the y axis, but Moore's L
 
 Wright's Law originates in a 1936 paper called [Factors Affecting the Cost of Airplanes](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), by a Wright of no relation to the Wright brothers.
 Here's his line on a log-log plot of cost vs cumulative production, the first instance of Wright's Law:
+
+![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1794897621/lexical_client_uploads/ykdissbnulyqp28bzi9m.png)
 
 Wright was talking about improvements within a single factory, and the steep decrease he saw was in labor cost.
 Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions time-and-motion studies.
