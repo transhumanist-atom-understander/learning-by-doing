@@ -3,35 +3,37 @@ Invention is doing something new, whereas learning by doing is doing the same th
 
 One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
+It was a total trend break from the steady improvement of incandescent lighting since Edison.
 
 LED lighting required a new material: gallium nitride for the blue LED.
 My postdoc work was in materials discovery, and blue LEDs and lithium-ion batteries were aspirational examples.
-Solar power, though, was an uncomfortable reminder of how much technological progress had nothing to do with academics like us working on exciting new materials in the lab.
-After all these years, and all these exciting new solar cell materials demonstrated in academic labs, the solar boom was happening with silicon.
-(Except for America's only major solar manufacturer, First Solar; they use cadmium telluride.)
+Solar power, though, was an uncomfortable reminder of how much technological progress had nothing to do with us.
+The solar boom was not because of academics working on exciting alternatives to silicon in th elab, but decades of accumulated progress in manufacturing with silicon.
+(The exception is America's only major solar cell manufacturer, First Solar; they use cadmium telluride.)
 
 I first saw a graph like this at a conference:
 
-On the y axis is log price, and on the x axis is log cumulative production, that is, how many solar panels have ever been made, measured in watts.
-This is called an instance of "Wright's Law".
+On the y axis is log price, and on the x axis is log cumulative production: that is, how many solar panels have ever been made, measured in watts.
+When we see a line on a graph like this, we call it an instance of "Wright's Law".
 Soon enough I saw these graphs everywhere online; [this one is from OWID](https://ourworldindata.org/learning-curve).
 People call this a "learning curve" or an "experience curve", although on a log-log plot the point is it doesn't curve, it's a straight line.
 
 Why plot against cumulative production, rather than against time?
 Moore's Law is the observation that transistor density doubles every two years.
 [You plot it](https://ourworldindata.org/moores-law) with time on the x axis, and on the y axis, transistor density on a logarithmic scale.
-Speaking roughly, both graphs are plotting some measure of efficiency on the y axis, but Moore's Law uses time as the x axis, whereas Wright's Law uses cumulative production.
+Both graphs are plotting some measure of efficiency on the y axis, but Moore's Law uses time as the x axis, whereas Wright's Law uses cumulative production.
 
 Wright's Law originates in a 1936 paper called [Factors Affecting the Cost of Airplanes](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), by a Wright of no relation to the Wright brothers.
-He made the log-log plot of cost vs cumulative production, and drew a line, the first instance of Wright's Law:
+Here's his line on a log-log plot of cost vs cumulative production, the first instance of Wright's Law:
 
-Critically, Wright was talking about improvements within a single factory, and saw the steepest decreases in labor cost.
+Wright was talking about improvements within a single factory, and the steep decrease he saw was in labor cost.
 Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions time-and-motion studies.
 He also mentions better tools, both because they make work more efficient and because you can decrease labor costs by hiring less skilled workers.
 
-The solar Wright's Law graph, spanning multiple decades, is presumably reflecting something different.
-The old factories are gone, the new ones have different people and equipment.
-Arrow's Learning by Doing paper presented a model where all improvements to manufacturing efficiency are due to new equipment.
+The solar "Wright's Law" graph, spanning multiple decades, seems to measure something else entirely.
+The old factories are gone, and the new ones have different people.
+
+Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952)  presented a model where all improvements to manufacturing efficiency are due to new equipment.
 He evocatively describes the efficiency of a machine as a function of its serial number.
 This makes it hard to distinguish between "learning by doing" and invention, since improved equipment embodies inventions.
 For example, even though we're still using silicon, there has been a succession of technologies for slicing the crystal into wafers.
