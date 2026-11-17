@@ -8,7 +8,7 @@ It was a total trend break from the steady improvement of incandescent lighting 
 LED lighting required a new material: gallium nitride for the blue LED.
 My postdoc work was in materials discovery, and blue LEDs and lithium-ion batteries were aspirational examples.
 Solar power, though, was an uncomfortable reminder of how much technological progress had nothing to do with us.
-The solar boom was not because of academics working on exciting alternatives to silicon in th elab, but decades of accumulated progress in manufacturing with silicon.
+The solar boom was not because of academics working on exciting alternatives to silicon in the lab, but decades of accumulated progress in manufacturing with silicon.
 (The exception is America's only major solar cell manufacturer, First Solar; they use cadmium telluride.)
 
 I first saw a graph like this at a conference:
