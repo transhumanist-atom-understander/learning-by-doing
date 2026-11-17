@@ -1,4 +1,5 @@
-Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952) is best introduced with a contrast to invention.
+Economists studying technological progress contrast invention to learning by doing.
+Invention is doing something new, whereas learning by doing is doing the same thing over and over.
 
 One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
