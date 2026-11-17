@@ -31,7 +31,7 @@ Here's his line on a log-log plot of cost vs cumulative production, the first in
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1794897621/lexical_client_uploads/ykdissbnulyqp28bzi9m.png)
 
 Wright was talking about improvements within a single factory, and the steep decrease he saw was in labor cost.
-Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions time-and-motion studies.
+Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions [time-and-motion studies](https://en.wikipedia.org/wiki/Time_and_motion_study).
 He also mentions better tools, both because they make work more efficient and because you can decrease labor costs by hiring less skilled workers.
 
 The solar "Wright's Law" graph, spanning multiple decades, seems to measure something else entirely.
