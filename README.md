@@ -3,7 +3,7 @@ Invention is doing something new, whereas learning by doing is doing the same th
 
 One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
-It was a total trend break from the steady improvement of incandescent lighting since Edison.
+It was not an incremental improvement but a total trend break when we replaced our incandescent bulbs with LED bulbs that draw a tenth of the power.
 
 LED lighting required a new material: gallium nitride, to emit blue light, which can be converted to the white light needed for lighting.
 My postdoc work was in materials discovery, and blue LEDs and lithium-ion batteries were aspirational examples.
