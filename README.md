@@ -35,7 +35,8 @@ Speculating as to the reasons, he discusses the workers getting better at what t
 He also mentions better tools, both because they make work more efficient and because you can decrease labor costs by hiring less skilled workers.
 
 The solar "Wright's Law" graph, spanning multiple decades, seems to measure something else entirely.
-The old factories are gone, and the new ones have different people.
+It isn't about decades-old factories with the world's most experienced workers.
+It depicts decades of new factories being built in an expanding industry.
 
 Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952)  presented a model where all improvements to manufacturing efficiency are due to new equipment.
 He evocatively describes the efficiency of a machine as a function of its serial number.
