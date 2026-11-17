@@ -58,5 +58,6 @@ There's [a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.p
 I couldn't tell you whether a hypothetical Arrow's Law extrapolation is better.
 I don't know who collects data measuring total cumulative investment in production of a specific product.
 
-The real trick to all of these extrapolations, I think, is that huge errors look small on a log scale.
-Even if you're totally misled by the predictions year by year, they'll still look great looking back over the decades when the deviations have all averaged out.
+I think it doesn't matter so much because these fits are not so precise anyway.
+The real trick to all of these graphs, I think, is that huge errors look small on a log scale, and we adjust the line fit as more points come in.
+Even if you're totally misled by the extrapolations year by year, the plot will still look great retrospectively decades later.
