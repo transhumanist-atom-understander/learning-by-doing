@@ -21,7 +21,7 @@ Moore's Law is the observation that transistor density doubles every two years.
 [You plot it](https://ourworldindata.org/moores-law) with time on the x axis, and on the y axis, transistor density on a logarithmic scale.
 Speaking roughly, both graphs are plotting some measure of efficiency on the y axis, but Moore's law uses time as the x axis, whereas Wright's Law uses cumulative production.
 
-Wright's law originates in a 1936 paper called "Factors Affecting the Cost of Airplanes", by a Wright of no relation to the Wright brothers.
+Wright's law originates in a 1936 paper called [Factors Affecting the Cost of Airplanes](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), by a Wright of no relation to the Wright brothers.
 He made the log-log plot of price vs cumulative production, and drew a line, the first instance of Wright's law:
 
 Critically, Wright talking about improvements within a single factory, and saw decreases specifically in labor cost.
@@ -46,7 +46,7 @@ When does Arrow's Law differ from a Wright's Law extrapolation in cumulative pro
 When investment is unreliable.
 Years where people are still buying, but it is not possible to finance new equipment.
 
-There's [a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669) that says Wright's Law-style extrapolations are somewhat better than Moore's Law extrapolations, but it mostly doesn't matter.
+There's [a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052669) that says Wright's Law-style extrapolations are somewhat better than Moore's Law extrapolations, but not by much.
 I couldn't tell you whether a hypothetical Arrow's Law extrapolation is better.
 I don't know who collects data measuring total cumulative investment in production of a specific product.
 
