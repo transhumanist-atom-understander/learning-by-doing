@@ -1,4 +1,4 @@
-Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952) begins with a contrast to invention.
+Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952) is best introduced with a contrast to invention.
 
 One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
@@ -13,22 +13,22 @@ I first saw a graph like this at a conference:
 
 On the y axis is log price, and on the x axis is log cumulative production, that is, how many solar panels have ever been made, measured in watts.
 This is called an instance of "Wright's Law".
-I saw my first Wright's Law plot of solar power at a conference, but soon enough saw them everywhere online; [this one is from OWID](https://ourworldindata.org/learning-curve).
+Soon enough I saw these graphs everywhere online; [this one is from OWID](https://ourworldindata.org/learning-curve).
 People call this a "learning curve" or an "experience curve", although on a log-log plot the point is it doesn't curve, it's a straight line.
 
 Why plot against cumulative production, rather than against time?
 Moore's Law is the observation that transistor density doubles every two years.
 [You plot it](https://ourworldindata.org/moores-law) with time on the x axis, and on the y axis, transistor density on a logarithmic scale.
-Speaking roughly, both graphs are plotting some measure of efficiency on the y axis, but Moore's law uses time as the x axis, whereas Wright's Law uses cumulative production.
+Speaking roughly, both graphs are plotting some measure of efficiency on the y axis, but Moore's Law uses time as the x axis, whereas Wright's Law uses cumulative production.
 
-Wright's law originates in a 1936 paper called [Factors Affecting the Cost of Airplanes](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), by a Wright of no relation to the Wright brothers.
-He made the log-log plot of price vs cumulative production, and drew a line, the first instance of Wright's law:
+Wright's Law originates in a 1936 paper called [Factors Affecting the Cost of Airplanes](https://pdodds.w3.uvm.edu/research/papers/others/1936/wright1936a.pdf), by a Wright of no relation to the Wright brothers.
+He made the log-log plot of cost vs cumulative production, and drew a line, the first instance of Wright's Law:
 
-Critically, Wright talking about improvements within a single factory, and saw decreases specifically in labor cost.
+Critically, Wright was talking about improvements within a single factory, and saw the steepest decreases in labor cost.
 Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions time-and-motion studies.
-He also mentions better tools, both because make work more efficient and because you can decrease labor costs by hiring less skilled workers.
+He also mentions better tools, both because they make work more efficient and because you can decrease labor costs by hiring less skilled workers.
 
-The solar Wright's law graph, spanning multiple decades, is presumably reflecting something different.
+The solar Wright's Law graph, spanning multiple decades, is presumably reflecting something different.
 The old factories are gone, the new ones have different people and equipment.
 Arrow's Learning by Doing paper presented a model where all improvements to manufacturing efficiency are due to new equipment.
 He evocatively describes the efficiency of a machine as a function of its serial number.
@@ -36,10 +36,10 @@ This makes it hard to distinguish between "learning by doing" and invention, sin
 For example, even though we're still using silicon, there has been a succession of technologies for slicing the crystal into wafers.
 
 In Arrow's model, progress doesn't come from time passing, or from routine production, but from investments in new capital.
-We could formulate an "Arrow's law": an increase in efficiency as a function of capital investment.
+We could formulate an "Arrow's Law": an increase in efficiency as a function of cumulative capital investment.
 
 When does Wright's Law differ from a Moore's Law extrapolation in time?
-When demand is unreliable, so there's years of low production, or at least stagnant growth in production.
+When demand is unreliable, so there are years of low production, or at least stagnant growth in production.
 If Wright's Law truly holds, then this will look like falling behind Moore's Law.
 
 When does Arrow's Law differ from a Wright's Law extrapolation in cumulative production?
@@ -51,4 +51,4 @@ I couldn't tell you whether a hypothetical Arrow's Law extrapolation is better.
 I don't know who collects data measuring total cumulative investment in production of a specific product.
 
 The real trick to all of these extrapolations, I think, is that huge errors look small on a log scale.
-Even if you're totally mislead by the predictions year by year, they'll still look great looking back over the decades when the deviations have all averaged out.
+Even if you're totally misled by the predictions year by year, they'll still look great looking back over the decades when the deviations have all averaged out.
