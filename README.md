@@ -1,4 +1,4 @@
-Arrow's paper "The Economic Implications of Learning by Doing" begins with a contrast to invention.
+Arrow's paper [The Economic Implications of Learning by Doing](https://doi.org/10.2307/2295952) begins with a contrast to invention.
 
 One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
@@ -24,14 +24,14 @@ Speaking roughly, both graphs are plotting some measure of efficiency on the y a
 Wright's law originates in a 1936 paper called "Factors Affecting the Cost of Airplanes", by a Wright of no relation to the Wright brothers.
 He made the log-log plot of price vs cumulative production, and drew a line, the first instance of Wright's law:
 
-He also speculated on why such a thing should hold.
-Critically, Wright talking about improvements within a single factory.
-As an example of what could lead to such improvements, he mentions "time-and-motion studies", measuring the efficiency of factory workers.
-Wright's experience curve was really about experience, about the people in a specific factory getting better at what they do.
+Critically, Wright talking about improvements within a single factory, and saw decreases specifically in labor cost.
+Speculating as to the reasons, he discusses the workers getting better at what they do, and mentions time-and-motion studies.
+He also mentions better tools, both because make work more efficient and because you can decrease labor costs by hiring less skilled workers.
 
-The solar Wright's law graph, spanning multiple decades, is presumably reflecting something completely different.
+The solar Wright's law graph, spanning multiple decades, is presumably reflecting something different.
 The old factories are gone, the new ones have different people and equipment.
-Arrow's "Learning by Doing" paper presented a model where all improvements to manufacturing efficiency are due to new equipment.
+Arrow's Learning by Doing paper presented a model where all improvements to manufacturing efficiency are due to new equipment.
+He evocatively describes the efficiency of a machine as a function of its serial number.
 This makes it hard to distinguish between "learning by doing" and invention, since improved equipment embodies inventions.
 For example, even though we're still using silicon, there has been a succession of technologies for slicing the crystal into wafers.
 
