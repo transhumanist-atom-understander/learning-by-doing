@@ -5,7 +5,7 @@ One example of invention is LED lighting.
 Ravers with LEDs of course look futuristic, but now that LED lighting is widespread, the whole world looks a little different, and old indoor photos look old just because of the quality of the light.
 It was a total trend break from the steady improvement of incandescent lighting since Edison.
 
-LED lighting required a new material: gallium nitride for the blue LED.
+LED lighting required a new material: gallium nitride, to emit blue light, which can be converted to the white light needed for lighting.
 My postdoc work was in materials discovery, and blue LEDs and lithium-ion batteries were aspirational examples.
 Solar power, though, was an uncomfortable reminder of how much technological progress had nothing to do with us.
 The solar boom was not because of academics working on exciting alternatives to silicon in the lab, but decades of accumulated progress in manufacturing with silicon.
