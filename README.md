@@ -15,7 +15,8 @@ I first saw a graph like this at a conference:
 
 ![](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1794897603/lexical_client_uploads/pu8ncrl9doxgyco0iahy.png)
 
-On the y axis is log price, and on the x axis is log cumulative production: that is, how many solar panels have ever been made, measured in watts.
+On the y axis is price, and on the x axis is cumulative production: that is, how many solar panels have ever been made, measured in watts.
+Both are plotted logarithmically.
 When we see a line on a graph like this, we call it an instance of "Wright's Law".
 Soon enough I saw these graphs everywhere online; [this one is from OWID](https://ourworldindata.org/learning-curve).
 People call this a "learning curve" or an "experience curve", although on a log-log plot the point is it doesn't curve, it's a straight line.
